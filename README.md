@@ -16,7 +16,7 @@ Some history about things I've used and why I stopped using them.
 
 ## Tried and dropped
 
-- [Deno-Fresh](Dropped-DenoFresh.md)
+- [Deno-Fresh](Dropped-Deno-Fresh.md)
 - [Django](Dropped-Django.md)
 - [Perl](Dropped-Perl.md)
 
